@@ -2,7 +2,7 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.2.4.
 
-##Add a new functionnality :
+## Add a new functionnality :
 
 - Go on your command line (git bash for windows man)
 - Go in your git directory
