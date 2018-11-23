@@ -10,7 +10,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 - git checkout teamBranch
 - create a new branch -> git checkout -b myBranch
 - Copy, paste -> npm install -g @angular/cli
-- Start !
+- Start 'ng serve' ! (and that's it)
 
 ## Development server
 
