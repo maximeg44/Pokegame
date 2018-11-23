@@ -12,6 +12,8 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 - Copy, paste -> npm install -g @angular/cli
 - Start 'ng serve' ! (and that's it)
 
+### You must use the pokeapi at https://pokeapi.co/
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
