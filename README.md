@@ -2,6 +2,8 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.2.4.
 
+## Functionnal documentation available [here](/doc/Specifications_fonctionnelles_Pokegame.pdf)
+
 ## Add a new functionnality :
 
 - Go on your command line (git bash for windows man)
