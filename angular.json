@@ -3,7 +3,7 @@
   "version": 1,
   "newProjectRoot": "projects",
   "scripts": {
-    "postinstall":"ng build -prod"
+    "start":"ng build -prod"
   },
   "projects": {
     "Pokegame": {
